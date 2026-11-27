@@ -1,0 +1,13 @@
+# Car-mode home tiles. Format: Label|URL|emoji   (one per line, edit freely)
+Dekh Nav (voice)|dekh://nav|🧭
+Maps|https://www.google.com/maps|🗺️
+Traffic|https://www.google.com/maps/@?api=1&amp;map_action=map&amp;layer=traffic|🚦
+Waze live map|https://www.waze.com/live-map|🚗
+Petrol pumps|https://www.google.com/maps/search/petrol+pump+near+me|⛽
+Parking|https://www.google.com/maps/search/parking+near+me|🅿️
+Food|https://www.google.com/maps/search/restaurants+near+me|🍽️
+YouTube|https://m.youtube.com|▶️
+YT Music|https://music.youtube.com|🎵
+Radio|https://radio.garden|📻
+Weather|https://wttr.in|🌦️
+Search|https://duckduckgo.com|🔎
